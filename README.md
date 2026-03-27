@@ -1,4 +1,4 @@
-# 🌍 English → Hindi Neural Machine Translation (Transformer)
+# 🌍 English -> Hindi Neural Machine Translation (Transformer)
 
 A deep learning-based Neural Machine Translation (NMT) system that translates English sentences into Hindi using a Transformer architecture. This project demonstrates modern NLP techniques including subword tokenization, sequence-to-sequence learning, and attention mechanisms.
 
